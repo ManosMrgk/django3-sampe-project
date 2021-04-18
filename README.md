@@ -13,7 +13,7 @@ SECRET_KEY='test123'
 DATABASE_URL=sqlite:///./db.sqlite3
 ```
 # run development server
-``` bash
+```bash
 python manage.py runserver
 ```
 
